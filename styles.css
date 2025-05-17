@@ -1,0 +1,18 @@
+.box{
+    /* display: flex; */
+    display: inline-flex;
+    
+}
+body{
+    background-color: aqua;
+    align-items: center;
+}
+#one{
+    background-color: blue;
+}
+#two{
+    background-color: red;
+}
+#three{
+    background-color: green;
+}
